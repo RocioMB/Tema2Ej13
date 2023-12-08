@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aj5ShN3/x/VIghK/JW7UpNYYyTK5LUOlhGGOCltkcY54dKIh86khh7VUxB6Q4Pbw+h4dqNiwURhTYQeZmJ2WFw==",
+  "success": true,
+  "projectFilePath": "F:\\devel daw\\EjericiosT2Programacion\\Ejercicio 13 Tema 2\\Ejercicio 13 Tema 2\\Ejercicio 13 Tema 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salva\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\salva\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\salva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\salva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

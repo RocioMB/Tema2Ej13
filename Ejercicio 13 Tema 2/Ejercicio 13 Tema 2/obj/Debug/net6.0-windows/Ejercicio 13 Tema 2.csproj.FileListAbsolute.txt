@@ -1,0 +1,33 @@
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.exe
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.deps.json
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.runtimeconfig.json
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.dll
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.pdb
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.csproj.AssemblyReference.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio_13_Tema_2.Form1.resources
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.csproj.GenerateResource.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.AssemblyInfoInputs.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.AssemblyInfo.cs
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.csproj.CoreCompileInputs.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.dll
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\refint\Ejercicio 13 Tema 2.dll
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.pdb
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.genruntimeconfig.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 2\EJERCICIOS TEMA 2 PROGRAMACION\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\ref\Ejercicio 13 Tema 2.dll
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.exe
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.deps.json
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.runtimeconfig.json
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.dll
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.pdb
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio_13_Tema_2.Form1.resources
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.csproj.GenerateResource.cache
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.AssemblyInfoInputs.cache
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.AssemblyInfo.cs
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.csproj.CoreCompileInputs.cache
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.dll
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\refint\Ejercicio 13 Tema 2.dll
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.pdb
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.genruntimeconfig.cache
+F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\ref\Ejercicio 13 Tema 2.dll
