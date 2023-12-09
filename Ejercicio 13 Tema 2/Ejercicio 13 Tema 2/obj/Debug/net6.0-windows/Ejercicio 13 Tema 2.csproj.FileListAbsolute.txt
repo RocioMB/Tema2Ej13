@@ -31,3 +31,20 @@ F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj
 F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.pdb
 F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.genruntimeconfig.cache
 F:\devel daw\EjericiosT2Programacion\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\ref\Ejercicio 13 Tema 2.dll
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.exe
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.deps.json
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.runtimeconfig.json
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.dll
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\bin\Debug\net6.0-windows\Ejercicio 13 Tema 2.pdb
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.csproj.AssemblyReference.cache
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio_13_Tema_2.Form1.resources
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.csproj.GenerateResource.cache
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.AssemblyInfoInputs.cache
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.AssemblyInfo.cs
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.csproj.CoreCompileInputs.cache
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.dll
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\refint\Ejercicio 13 Tema 2.dll
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.pdb
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\Ejercicio 13 Tema 2.genruntimeconfig.cache
+C:\Users\mbroc\Source\Repos\Tema2Ej13\Ejercicio 13 Tema 2\Ejercicio 13 Tema 2\obj\Debug\net6.0-windows\ref\Ejercicio 13 Tema 2.dll

@@ -28,13 +28,16 @@ namespace Ejercicio_13_Tema_2
                 NumHorasExtra = double.Parse(txtHorasExtraMes.Text);
                 PagaPorHora = double.Parse(txtPagaPorHora.Text);
 
-                PagaHorasNormales = NumHoras / PagaPorHora;
+                //!? RMB2324 Cambiamos división por multiplicación en línea 32
+                PagaHorasNormales = NumHoras * PagaPorHora;
                 PagaHorasExtra = NumHorasExtra * (PagaPorHora * 2);
                 PagaMensualBruto = PagaHorasNormales + PagaHorasExtra;
-                ResultadoRetencion = PagaMensualBruto + RETENCION;
+                //!? RMB2324 Cambiamos suma por multiplicación en línea 36
+                ResultadoRetencion = PagaMensualBruto * RETENCION;
                 PagaMensualNetoRMB2324 = PagaMensualBruto - ResultadoRetencion;
 
-                PorcentajeRetencionRMB2324 = RETENCION - 100;
+                //!? RMB2324 Cambiamos resta por multiplicación en línea 40
+                PorcentajeRetencionRMB2324 = RETENCION * 100;
 
                 NominaLabel.Text = "La nómina mensual es de " + PagaMensualNetoRMB2324.ToString() + " euros.";
                 RetencionLabel.Text = " Retención aplicada del " + PorcentajeRetencionRMB2324.ToString() + "%";
