@@ -18,8 +18,9 @@ namespace Ejercicio_13_Tema_2
             double PagaHorasExtra;
             double PagaMensualBruto;
             double ResultadoRetencion;
-            double PagaMensualNeto;
-            double PorcentajeRetencion;
+            //!? RMB2324 Cambiado nombre variables
+            double PagaMensualNetoRMB2324;
+            double PorcentajeRetencionRMB2324;
 
             try
             {
@@ -31,12 +32,12 @@ namespace Ejercicio_13_Tema_2
                 PagaHorasExtra = NumHorasExtra * (PagaPorHora * 2);
                 PagaMensualBruto = PagaHorasNormales + PagaHorasExtra;
                 ResultadoRetencion = PagaMensualBruto + RETENCION;
-                PagaMensualNeto = PagaMensualBruto - ResultadoRetencion;
+                PagaMensualNetoRMB2324 = PagaMensualBruto - ResultadoRetencion;
 
-                PorcentajeRetencion = RETENCION - 100;
+                PorcentajeRetencionRMB2324 = RETENCION - 100;
 
-                NominaLabel.Text = "La nómina mensual es de " + PagaMensualNeto.ToString() + " euros.";
-                RetencionLabel.Text = " Retención aplicada del " + PorcentajeRetencion.ToString() + "%";
+                NominaLabel.Text = "La nómina mensual es de " + PagaMensualNetoRMB2324.ToString() + " euros.";
+                RetencionLabel.Text = " Retención aplicada del " + PorcentajeRetencionRMB2324.ToString() + "%";
             }
             catch(FormatException fEx)
             {
